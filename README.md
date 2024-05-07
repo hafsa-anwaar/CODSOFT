@@ -1,2 +1,6 @@
 # _CodSoft
-This is my intership projects at Codsoft for java programming. This repository is comprised of total 5 tasks where each task showcases my skills in java.  Resources  Readme
+
+1.ATM Interface
+2.Guess the no
+3. Quiz
+4.Marksheet generator
